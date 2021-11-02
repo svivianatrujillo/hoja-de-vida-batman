@@ -1,0 +1,32 @@
+.logo-batman {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1, h3{
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    letter-spacing: 6px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 110px;
+}
+
+.espacio {
+    padding-left: 80px;
+}
+footer {
+    text-align: center;
+    background: #005677;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.iconos{
+padding-left: 10px;
+}
